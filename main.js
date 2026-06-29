@@ -300,14 +300,14 @@ document.addEventListener('DOMContentLoaded', () => {
       category: 'Graphic Design',
       title: 'Brand Identity Package',
       desc: 'Complete branding solution including logo design, restaurant menus, shoe branding, and thank-you cards.',
-      images: ['Graphic/design1.jpg', 'Graphic/design2.jpg', 'Graphic/design3.jpg'],
+      images: ['design1.jpg', 'design2.jpg', 'design3.jpg'],
       alts: ['Restaurant Menu Design', 'Shoe Branding Design', 'Thank You Card Design']
     },
     webdev: {
       category: 'Web Development',
       title: 'Online Vehicle Rental Management System',
       desc: 'A fully responsive vehicle rental platform with booking management, user authentication, and admin dashboard.',
-      images: ['WEB/webproject1.png'],
+      images: ['webproject1.png'],
       alts: ['Online Vehicle Rental Management System — Home Page']
     }
   };
